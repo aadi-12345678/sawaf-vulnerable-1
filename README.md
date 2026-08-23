@@ -16,7 +16,7 @@ http://localhost:8080
 <h4>This is downloadable sawaf-vulnerable-1</h4>
 
 Test my Live vulnerable Web Application for Penetrate Testing <br>
-https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp
+<p><a href="https://www.w3schools.com/">Visit Total-Coverage WAF Control Center!</a></p>
 <h4>Please Promote my lab</h4>
 <h4>sawaf-vulnerable is not by copy you have to copy manually</h4>
 
