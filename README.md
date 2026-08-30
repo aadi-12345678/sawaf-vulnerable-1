@@ -69,5 +69,5 @@ Live vulnerable Web Application for Penetrate Testing<br>Live vulnerable Web App
 <p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p>
 
 <blockquote>
-When I createed this vulneable labe I created it in Python and named as CP Guard Fullform is Cerebral Palsy Guard.
+When I created this vulneable labe I created it in Python and named as CP Guard Fullform is Cerebral Palsy Guard.
 </blockquote>
