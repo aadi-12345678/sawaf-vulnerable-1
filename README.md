@@ -8,6 +8,14 @@ sudo docker run -d -p 8080:80 my-html-site
 ```
 Then open:
 http://localhost:8080
+```bash
+sudo docker pull aadityta/sawaf-vulnerable:latest
+sudo docker run -d -p 8080:80 aadityta/sawaf-vulnerable
+sudo docker run --rm -it -p 8080:80 aadityta/sawaf-vulnerable:latest
+sudo docker run --rm -p 8080:80 aadityta/sawaf-vulnerable
+sudo docker ps
+sudo  docker stop container id
+```
 
 <img width="1301" height="932" alt="Screenshot 2026-08-12 154350" src="https://github.com/user-attachments/assets/303fdb64-0249-4f0f-9744-4bdb99f6b039" />
 
