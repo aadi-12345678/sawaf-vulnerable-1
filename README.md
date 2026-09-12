@@ -77,7 +77,7 @@ Live vulnerable Web Application for Penetrate Testing<br>Live vulnerable Web App
 <p><a href="https://sawaf-vulnerable-1.vercel.app/?_vercel_share=8cZ9CYa9SNZDhRAa5tfyLtFW0W0apOIp">Visit Total-Coverage WAF Control Center!</a></p>
 
 <blockquote>
-When I created this vulnerable lab I created it in Python and named as CP Guard Full form is Cerebral Palsy Guard. There was a issue with python app.  This new Webapp named as Super Advanced Web Firewall
+When I created this vulnerable lab I created it in Python and named as CP Guard Full form is Cerebral Palsy Guard. There was a issue with python app.  This new Webapp named as Super Advanced Web Application Firewall
 </blockquote>
 
 <blockquote>
